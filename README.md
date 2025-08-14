@@ -1,4 +1,4 @@
-# Olá, eu sou AlexyGama!
+# Olá, eu sou Alexy Gimenez N. da Gama!
 
 ---
 
