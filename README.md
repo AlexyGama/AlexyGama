@@ -1,51 +1,64 @@
-# Olá, eu sou Alexy Gimenez N. da Gama!
+# 👋 Olá, eu sou Alexy Gimenez N. da Gama!
+
+**Analista de BI & Engenheiro de Dados** na [Remo Engenharia](https://www.remoengenharia.com.br)  
+📍 Belo Horizonte/MG | 🎓 Ciência de Dados + MBA USP | 🤖 Foco em ML & Inovação
 
 ---
 
-## Sobre mim
+## 🚀 Sobre Mim
 
-Atuo como **Analista de BI** na [Remo Engenharia](https://www.linkedin.com/company/remo-engenharia/posts/?feedView=all) (Belo Horizonte/MG), com forte experiência em **Engenharia de Dados**. Formado em Ciência de Dados e atualmente cursando MBA em Ciência de Dados pela USP, busco conciliar carreira acadêmica (mestrado/doutorado) e profissional, com foco em Machine Learning, inovação e resultados.
+Atuo na interseção entre **Business Intelligence** e **Engenharia de Dados**, com expertise em transformar dados brutos em insights estratégicos. Minha missão é bridge the gap entre dados complexos e decisões empresariais inteligentes.
 
----
-
-## Principais Habilidades
-
-| SQL | Power BI | Python | Excel | VBA (Full Stack) |
-|:-:|:-:|:-:|:-:|:-:|
-| ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white) | ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) | ![VBA](https://img.shields.io/badge/-VBA-BB5099?style=flat-square&logo=visual-basic&logoColor=white) |
+**🎯 Filosofia de Trabalho:**  
+> *"Without Data it's just an opinion."*
 
 ---
 
-## Contribuições de destaque
+## 🛠️ Stack Tecnológica
 
-- Otimização de ETLs
-- Desenvolvimento full stack de dashboards corporativos
-- Projetos voltados para eficiência, agilidade e resultados claros
+### **💾 Data Engineering**
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![ETL](https://img.shields.io/badge/-ETL-FF9900?style=flat-square&logo=apachespark&logoColor=white)
+
+### **📊 Business Intelligence**
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/-DAX-874AAF?style=flat-square&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+### **⚡ Automation & Development**
+![VBA](https://img.shields.io/badge/-VBA-BB5099?style=flat-square&logo=visual-basic&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![RPA](https://img.shields.io/badge/-RPA-FF6D00?style=flat-square&logo=robotframework&logoColor=white)
 
 ---
 
-## O que me motiva
+## 🎓 Educação em Andamento
 
-Minha maior preocupação é **reduzir custos de processamento**, aliando eficiência, agilidade e otimização. Valorizo **códigos limpos e bem documentados**, que entregam resultados rápidos e transparentes.
-
----
-
-## Comparação das linguagens usadas nos repositórios
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexyGama&layout=compact&langs_count=8&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+- **MBA em Ciência de Dados** - Universidade de São Paulo (USP)
+- **Foco em Machine Learning** & Engenharia de Dados
+- **Objetivo**: Mestrado/Doutorado com aplicação prática em indústria
 
 ---
 
-## Contato & Redes Sociais
+## 📫 Vamos Conversar?
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/data-science-alexy-gimenez/)
 [![Email Profissional](https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:alexy.gama@remo.com.br)
-[![Gmail Pessoal](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexycientista@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexyGama)
+[![Power BI](https://img.shields.io/badge/-Power%20BI%20Portfolio-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/)
 
 ---
 
-## Frase que me inspira
+## 💡 Princípios que Guiam Meu Trabalho
 
-> “Eficiência não é apenas fazer mais com menos, mas fazer melhor com inteligência.”
-
----
+```python
+def my_philosophy():
+    return {
+        "clean_code": "Códigos legíveis e bem documentados",
+        "efficiency": "Otimização de recursos e performance", 
+        "innovation": "Soluções inteligentes e disruptivas",
+        "results": "Foco em impacto mensurável",
+        "continuous_learning": "Evolução técnica constante"
+    }
